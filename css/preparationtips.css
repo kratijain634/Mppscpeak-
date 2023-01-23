@@ -1,0 +1,41 @@
+*
+h1 
+{
+   text-align:center;
+   background-color:#ffbf80;
+   font-size: 35px;
+   padding-top: 10px;
+   
+
+   
+}
+h2 
+{
+   text-align:center;
+   padding-left:30px ;
+   padding-top: 10px;
+   padding-bottom: 5px;
+   background-color:coral;
+}
+p
+{
+   text-align:left;
+   padding-left:30px;
+   font-size: 20px;
+   padding-top: 10px;
+   background-color: moccasin;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+li
+{
+   
+   list-style-position: inside;
+   padding-left:30px;
+   font-size:18px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+.orderlist li{
+   background-color: moccasin;
+}

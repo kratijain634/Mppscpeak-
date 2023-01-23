@@ -1,0 +1,36 @@
+/*--------------------------------------------------------------
+result page
+--------------------------------------------------------------*/
+
+table{
+    background-color: moccasin;
+    width:1200px;
+    height:200px;
+    margin:100px 0px 0px 70px;
+    text-align: center;
+}
+th{
+    color: white;
+    background-color:rgba(145, 11, 11, 0.781);
+}
+td{
+    align-content: center;
+}
+.logoutbtna
+{
+    background-color: maroon;
+    color:white;
+    cursor:pointer;
+    width:80px;
+    height:30px;
+    margin:20px 0px 0px 600px;
+    text-align: center;
+    padding-top:10px;
+}
+
+.logoutbtna a
+{
+    text-decoration: none;
+    color: white;
+    
+}

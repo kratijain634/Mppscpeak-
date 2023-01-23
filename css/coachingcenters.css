@@ -1,0 +1,57 @@
+*
+.coaching
+{
+  
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width:20%; 
+
+}
+.mheading
+{
+  margin-top: 6px;
+  font-size: 30px;
+  background-color: #ffbf80;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+h1 
+{
+  font-size: 30px;
+}
+body{
+  background-color: moccasin;
+}
+p{
+  margin-top: 10px;
+font-size: 18px;
+text-align: center;
+margin-left: 10px;
+padding-bottom: 10px;
+font-weight:calc();
+
+}
+.head{
+background-color:#ffbf80;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+table {
+  background-color:cornsilk;
+  margin-bottom: 20px;
+  width: 600px;
+  height: 300px;
+}
+table th{
+  font-size:23px;
+  background-color:maroon;
+  font-weight: bolder;
+  color: white;
+}
+table td
+{
+  font-size: 20px;
+  text-align: center;
+  font-weight: bolder;
+}

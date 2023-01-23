@@ -1,0 +1,57 @@
+
+
+table{
+    text-indent: initial;
+    height: 300px;
+    width:400px;
+    
+}
+.text-align
+{
+text-align:center;
+background-color:lightyellow;
+font-weight: bold;
+}
+.text-alignh
+{
+text-align:center;
+background-color:lightgrey;
+font-size: 23px; 
+}
+td {
+    border-width: 0 1px 1px 0;
+    font-size: 20px;
+}
+td {
+    padding: 8px;
+    
+}
+table, td {
+    border: 1px solid black;
+}
+body{
+      
+    line-height :2;
+    background-color: moccasin;
+    
+}
+.paragraph
+{
+font-size:23px;
+margin-left: 20px;
+margin-right: 20px;
+text-align: center;
+}
+h1{
+    background-color:moccasin;
+}
+h3{
+    background-color: moccasin;
+    font-size:25px;
+    color:maroon;
+}
+
+
+
+
+
